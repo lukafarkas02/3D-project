@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.obj
+*.pch
+*.pdb
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.ilk
+*.tmp
+*.log
+*.cache
+*.suo
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ARM/
+ARM64/
+
+# CMake intermediate files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+
+# Clang / CLion / CodeBlocks
+.idea/
+*.iml
+
+# Git
+*.orig
+*.rej
+
+# OS generated files
+.DS_Store
+Thumbs.db
